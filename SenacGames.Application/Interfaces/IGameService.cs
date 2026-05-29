@@ -5,8 +5,11 @@ using System.Text;
 
 
 ///<sumary>
+///
 /// Contrato de serviço de Games
+/// 
 /// Define as operações de negócio disponíveis para o game
+/// 
 /// </sumary>
 namespace SenacGames.Application.Interfaces
 {
